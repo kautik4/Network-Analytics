@@ -33,7 +33,7 @@ A **modular Bash-based network analytics suite** to monitor and log various aspe
 
 ```bash
 git clone https://github.com/kautik4/Network-Analytics
-cd network-analytics-suite
+cd Network-Analytics
 ```
 
 2. Make all scripts executable:
